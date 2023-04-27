@@ -9,7 +9,3 @@ public class LoginController {
         return "login from JSP";
     }
 }
-
-// /src/main/resources/META-INF/resources/WEB-INF/jsp/login.jsp
-// /src/main/resources/META-INF/resources/WEB-INF/jsp/sayHello.jsp
-// src/main/resources/META-INF/resources/WEB-INF/jsp/login.jsp
